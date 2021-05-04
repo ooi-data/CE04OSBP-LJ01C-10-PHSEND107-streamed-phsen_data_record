@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE04OSBP-LJ01C-10-PHSEND107-streamed-phsen_data_record
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: PHSEN<br>
